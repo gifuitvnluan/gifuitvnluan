@@ -1,4 +1,4 @@
-### Hi there 👋
+### Don't regret anything you do, because in the end it makes you who you are 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gifuitvnluan&theme=chartreuse-dark&show_icons=true&custom_title=Lu%C3%A2n%20GitHub%20Stats)](https://github.com/gifuitvnluan)
 <br>
